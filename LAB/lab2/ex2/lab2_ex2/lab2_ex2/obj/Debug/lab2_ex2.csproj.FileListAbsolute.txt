@@ -1,0 +1,10 @@
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex2\lab2_ex2\lab2_ex2\bin\Debug\lab2_ex2.exe.config
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex2\lab2_ex2\lab2_ex2\bin\Debug\lab2_ex2.exe
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex2\lab2_ex2\lab2_ex2\bin\Debug\lab2_ex2.pdb
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex2\lab2_ex2\lab2_ex2\obj\Debug\lab2_ex2.csproj.AssemblyReference.cache
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex2\lab2_ex2\lab2_ex2\obj\Debug\lab2_ex2.Form1.resources
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex2\lab2_ex2\lab2_ex2\obj\Debug\lab2_ex2.Properties.Resources.resources
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex2\lab2_ex2\lab2_ex2\obj\Debug\lab2_ex2.csproj.GenerateResource.cache
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex2\lab2_ex2\lab2_ex2\obj\Debug\lab2_ex2.csproj.CoreCompileInputs.cache
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex2\lab2_ex2\lab2_ex2\obj\Debug\lab2_ex2.exe
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex2\lab2_ex2\lab2_ex2\obj\Debug\lab2_ex2.pdb

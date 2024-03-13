@@ -1,0 +1,10 @@
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex4\lab2_ex4\lab2_ex4\bin\Debug\lab2_ex4.exe.config
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex4\lab2_ex4\lab2_ex4\bin\Debug\lab2_ex4.exe
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex4\lab2_ex4\lab2_ex4\bin\Debug\lab2_ex4.pdb
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex4\lab2_ex4\lab2_ex4\obj\Debug\lab2_ex4.csproj.AssemblyReference.cache
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex4\lab2_ex4\lab2_ex4\obj\Debug\lab2_ex4.Form1.resources
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex4\lab2_ex4\lab2_ex4\obj\Debug\lab2_ex4.Properties.Resources.resources
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex4\lab2_ex4\lab2_ex4\obj\Debug\lab2_ex4.csproj.GenerateResource.cache
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex4\lab2_ex4\lab2_ex4\obj\Debug\lab2_ex4.csproj.CoreCompileInputs.cache
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex4\lab2_ex4\lab2_ex4\obj\Debug\lab2_ex4.exe
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex4\lab2_ex4\lab2_ex4\obj\Debug\lab2_ex4.pdb

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3C4914-F365-4C12-B19B-598E3D324AD8}|lab2_1\\lab2_1.csproj|C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3C4914-F365-4C12-B19B-598E3D324AD8}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3C4914-F365-4C12-B19B-598E3D324AD8}|lab2_1\\lab2_1.csproj|C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C3C4914-F365-4C12-B19B-598E3D324AD8}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3C4914-F365-4C12-B19B-598E3D324AD8}|lab2_1\\lab2_1.csproj|c:\\facultate\\an 3\\sem 2\\ii\\lab\\lab2\\ex1\\lab2_1\\lab2_1\\welcomecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3C4914-F365-4C12-B19B-598E3D324AD8}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\welcomecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3C4914-F365-4C12-B19B-598E3D324AD8}|lab2_1\\lab2_1.csproj|C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\welcomecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C3C4914-F365-4C12-B19B-598E3D324AD8}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\welcomecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3C4914-F365-4C12-B19B-598E3D324AD8}|lab2_1\\lab2_1.csproj|C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5C3C4914-F365-4C12-B19B-598E3D324AD8}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Welcomecs.cs",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\Welcomecs.cs",
+              "RelativeDocumentMoniker": "lab2_1\\Welcomecs.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\Welcomecs.cs",
+              "RelativeToolTip": "lab2_1\\Welcomecs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:59:12.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "users.txt",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\users.txt",
+              "RelativeDocumentMoniker": "lab2_1\\users.txt",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\users.txt",
+              "RelativeToolTip": "lab2_1\\users.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-13T15:50:04.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcomecs.cs [Design]",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\Welcomecs.cs",
+              "RelativeDocumentMoniker": "lab2_1\\Welcomecs.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\Welcomecs.cs [Design]",
+              "RelativeToolTip": "lab2_1\\Welcomecs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:45:03.294Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\Form1.cs",
+              "RelativeDocumentMoniker": "lab2_1\\Form1.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\Form1.cs",
+              "RelativeToolTip": "lab2_1\\Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wCoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:25:36.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\Form1.cs",
+              "RelativeDocumentMoniker": "lab2_1\\Form1.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\ex1\\lab2_1\\lab2_1\\Form1.cs [Design]",
+              "RelativeToolTip": "lab2_1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:22:26.721Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

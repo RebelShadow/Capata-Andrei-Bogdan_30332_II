@@ -1,0 +1,11 @@
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\bin\Debug\lab2_1.exe.config
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\bin\Debug\lab2_1.exe
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\bin\Debug\lab2_1.pdb
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\obj\Debug\lab2_1.csproj.AssemblyReference.cache
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\obj\Debug\lab2_1.Form1.resources
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\obj\Debug\lab2_1.Properties.Resources.resources
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\obj\Debug\lab2_1.csproj.GenerateResource.cache
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\obj\Debug\lab2_1.csproj.CoreCompileInputs.cache
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\obj\Debug\lab2_1.exe
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\obj\Debug\lab2_1.pdb
+C:\facultate\an 3\sem 2\II\LAB\lab2\ex1\lab2_1\lab2_1\obj\Debug\lab2_1.Welcomecs.resources

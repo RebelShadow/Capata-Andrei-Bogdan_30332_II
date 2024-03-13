@@ -1,0 +1,7 @@
+C:\facultate\an 3\sem 2\II\LAB\lab 1\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\facultate\an 3\sem 2\II\LAB\lab 1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\facultate\an 3\sem 2\II\LAB\lab 1\lab1\lab1\bin\Debug\lab1.exe.config
+C:\facultate\an 3\sem 2\II\LAB\lab 1\lab1\lab1\bin\Debug\lab1.exe
+C:\facultate\an 3\sem 2\II\LAB\lab 1\lab1\lab1\bin\Debug\lab1.pdb
+C:\facultate\an 3\sem 2\II\LAB\lab 1\lab1\lab1\obj\Debug\lab1.exe
+C:\facultate\an 3\sem 2\II\LAB\lab 1\lab1\lab1\obj\Debug\lab1.pdb
