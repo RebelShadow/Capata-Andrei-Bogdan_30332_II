@@ -37,5 +37,10 @@ namespace Tema1
         {
 
         }
+
+        private void PasswordTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

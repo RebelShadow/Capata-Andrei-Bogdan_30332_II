@@ -20,44 +20,9 @@ namespace Tema1
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void removeCarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            // Read all lines from the file
-            string[] lines = System.IO.File.ReadAllLines(@"cars.txt");
-
-            // Clear the ListView
-            listView1.Items.Clear();
-
-            // Add each line from the file as an item in the ListView
-            foreach (string line in lines)
-            {
-                listView1.Items.Add(line);
-            }
-        }
-
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-
+            UpdateListView();
         }
 
         private void Add_Click(object sender, EventArgs e)
@@ -72,18 +37,18 @@ namespace Tema1
             string carData = selectedRadioButton.Text + ", " + string.Join(", ", checkedCheckBoxes.Select(c => c.Text));
 
             // Append the string to the file
-            System.IO.File.AppendAllText(@"cars.txt", carData + Environment.NewLine);
+            try
+            {
+                System.IO.File.AppendAllText(@"cars.txt", carData + Environment.NewLine);
+            }
+            catch (Exception ex)
+            {
+                // Handle exception
+            }
 
             // Update the ListView
-            listView1.Items.Clear();
-            string[] lines = System.IO.File.ReadAllLines(@"cars.txt");
-            foreach (string line in lines)
-            {
-                listView1.Items.Add(line);
-            }
+            UpdateListView();
         }
-
-
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -97,43 +62,90 @@ namespace Tema1
                 listView1.Items.Remove(selectedItem);
 
                 // Remove the selected item from the file
-                List<string> lines = new List<string>(System.IO.File.ReadAllLines(@"cars.txt"));
-                lines.Remove(selectedItem.Text);
-                System.IO.File.WriteAllLines(@"cars.txt", lines.ToArray());
+                try
+                {
+                    List<string> lines = new List<string>(System.IO.File.ReadAllLines(@"cars.txt"));
+                    lines.Remove(selectedItem.Text);
+                    System.IO.File.WriteAllLines(@"cars.txt", lines.ToArray());
+                }
+                catch (Exception ex)
+                {
+                    // Handle exception
+                }
             }
         }
+
         private void addCarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            panel2.Visible = true;
-            panel3.Visible = false;
-            panel1.Visible = false;
-
-
+            panel2.BringToFront();
+            panel1.SendToBack();
+            panel3.SendToBack();
         }
 
         private void removeCarsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            panel3.Visible = true;
-            panel1.Visible = false;
-            panel2.Visible = false;
-
-
+            panel3.BringToFront();
+            panel2.SendToBack();
+            panel1.SendToBack();
         }
 
         private void homeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            panel1.Visible = true;
-            panel2.Visible = false;
-            panel3.Visible = false;
-
+            panel1.BringToFront();
+            panel2.SendToBack();
+            panel3.SendToBack();
         }
 
+        private void UpdateListView()
+        {
+            try
+            {
+                // Read all lines from the file
+                string[] lines = System.IO.File.ReadAllLines(@"cars.txt");
+
+                // Clear the ListView
+                listView1.Items.Clear();
+
+                // Add each line from the file as an item in the ListView
+                foreach (string line in lines)
+                {
+                    listView1.Items.Add(line);
+                }
+            }
+            catch (Exception ex)
+            {
+                // Handle exception
+            }
+        }
         private void panel3_Paint(object sender, PaintEventArgs e)
         {
 
         }
 
         private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

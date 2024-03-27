@@ -46,8 +46,10 @@
             // 
             this.PasswordTextBox.Location = new System.Drawing.Point(106, 190);
             this.PasswordTextBox.Name = "PasswordTextBox";
+            this.PasswordTextBox.PasswordChar = '*';
             this.PasswordTextBox.Size = new System.Drawing.Size(170, 22);
             this.PasswordTextBox.TabIndex = 1;
+            this.PasswordTextBox.TextChanged += new System.EventHandler(this.PasswordTextBox_TextChanged);
             // 
             // LogInButton
             // 
@@ -78,7 +80,7 @@
             this.label2.Text = "Password:";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // Form1
+            // LogIn
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -88,7 +90,7 @@
             this.Controls.Add(this.LogInButton);
             this.Controls.Add(this.PasswordTextBox);
             this.Controls.Add(this.UsernameTextBox);
-            this.Name = "Form1";
+            this.Name = "LogIn";
             this.Text = "LoginForm";
             this.ResumeLayout(false);
             this.PerformLayout();
