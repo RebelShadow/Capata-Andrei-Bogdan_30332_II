@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\Tema1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3FA230-1D17-4175-8C38-1B0CBFAD0906}|Tema1\\Tema1.csproj|c:\\facultate\\an 3\\sem 2\\ii\\lab\\lab2\\tema1\\tema1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3FA230-1D17-4175-8C38-1B0CBFAD0906}|Tema1\\Tema1.csproj|solutionrelative:tema1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3FA230-1D17-4175-8C38-1B0CBFAD0906}|Tema1\\Tema1.csproj|c:\\facultate\\an 3\\sem 2\\ii\\lab\\lab2\\tema1\\tema1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C3FA230-1D17-4175-8C38-1B0CBFAD0906}|Tema1\\Tema1.csproj|solutionrelative:tema1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3FA230-1D17-4175-8C38-1B0CBFAD0906}|Tema1\\Tema1.csproj|c:\\facultate\\an 3\\sem 2\\ii\\lab\\lab2\\tema1\\tema1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3FA230-1D17-4175-8C38-1B0CBFAD0906}|Tema1\\Tema1.csproj|solutionrelative:tema1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3FA230-1D17-4175-8C38-1B0CBFAD0906}|Tema1\\Tema1.csproj|c:\\facultate\\an 3\\sem 2\\ii\\lab\\lab2\\tema1\\tema1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C3FA230-1D17-4175-8C38-1B0CBFAD0906}|Tema1\\Tema1.csproj|solutionrelative:tema1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\Tema1\\Tema1\\Main.cs",
+              "RelativeDocumentMoniker": "Tema1\\Main.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\Tema1\\Tema1\\Main.cs",
+              "RelativeToolTip": "Tema1\\Main.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAQwIwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:08:01.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\Tema1\\Tema1\\Main.cs",
+              "RelativeDocumentMoniker": "Tema1\\Main.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\Tema1\\Tema1\\Main.cs [Design]",
+              "RelativeToolTip": "Tema1\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:56:04.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\Tema1\\Tema1\\LogIn.cs",
+              "RelativeDocumentMoniker": "Tema1\\LogIn.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\Tema1\\Tema1\\LogIn.cs",
+              "RelativeToolTip": "Tema1\\LogIn.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:53:06.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\Tema1\\Tema1\\LogIn.cs",
+              "RelativeDocumentMoniker": "Tema1\\LogIn.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab2\\Tema1\\Tema1\\LogIn.cs [Design]",
+              "RelativeToolTip": "Tema1\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:48:13.404Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

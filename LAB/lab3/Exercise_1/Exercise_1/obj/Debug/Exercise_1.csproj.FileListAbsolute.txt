@@ -1,0 +1,51 @@
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\bin\Debug\Database1.mdf
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\bin\Debug\Database1_log.ldf
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe.config
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\bin\Debug\Exercise_1.pdb
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.AssemblyReference.cache
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.Form1.resources
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.Properties.Resources.resources
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.GenerateResource.cache
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.CoreCompileInputs.cache
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.exe
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.pdb
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.dll
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.SqlServer.dll
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.xml
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.SqlServer.xml
+D:\An III Sem II\II\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.Up2Date
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\bin\Debug\Database1.mdf
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\bin\Debug\Database1_log.ldf
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe.config
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\bin\Debug\Exercise_1.pdb
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.dll
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.xml
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.Form1.resources
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.Properties.Resources.resources
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.Up2Date
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.exe
+C:\Users\student\Downloads\Lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.pdb
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\bin\Debug\Database1.mdf
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\bin\Debug\Database1_log.ldf
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe.config
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\bin\Debug\Exercise_1.pdb
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.dll
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.xml
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.AssemblyReference.cache
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.Form1.resources
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.Properties.Resources.resources
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.GenerateResource.cache
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.CoreCompileInputs.cache
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.Up2Date
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.exe
+C:\facultate\an 3\sem 2\II\LAB\lab3\Exercise_1\Exercise_1\obj\Debug\Exercise_1.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab3\\Exercise_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F084680A-8D17-4913-AAFB-77247487B371}|Exercise_2\\Exercise_2.csproj|c:\\facultate\\an 3\\sem 2\\ii\\lab\\lab3\\exercise_2\\exercise_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F084680A-8D17-4913-AAFB-77247487B371}|Exercise_2\\Exercise_2.csproj|solutionrelative:exercise_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F084680A-8D17-4913-AAFB-77247487B371}|Exercise_2\\Exercise_2.csproj|C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab3\\Exercise_2\\exercise_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F084680A-8D17-4913-AAFB-77247487B371}|Exercise_2\\Exercise_2.csproj|solutionrelative:exercise_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab3\\Exercise_2\\Exercise_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise_2\\Form1.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab3\\Exercise_2\\Exercise_2\\Form1.cs",
+              "RelativeToolTip": "Exercise_2\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T18:03:14.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab3\\Exercise_2\\Exercise_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise_2\\Form1.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\LAB\\lab3\\Exercise_2\\Exercise_2\\Form1.cs [Design]",
+              "RelativeToolTip": "Exercise_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:59:29.294Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
