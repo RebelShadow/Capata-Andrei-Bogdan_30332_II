@@ -1,0 +1,61 @@
+D:\An III Sem II\II\Lab4\Lab4\Lab4\bin\Debug\net8.0\appsettings.Development.json
+D:\An III Sem II\II\Lab4\Lab4\Lab4\bin\Debug\net8.0\appsettings.json
+D:\An III Sem II\II\Lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.staticwebassets.runtime.json
+D:\An III Sem II\II\Lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.exe
+D:\An III Sem II\II\Lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.deps.json
+D:\An III Sem II\II\Lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.runtimeconfig.json
+D:\An III Sem II\II\Lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.dll
+D:\An III Sem II\II\Lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.pdb
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfoInputs.cache
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfo.cs
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.csproj.CoreCompileInputs.cache
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.MvcApplicationPartsAssemblyInfo.cache
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.RazorAssemblyInfo.cache
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.RazorAssemblyInfo.cs
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets.build.json
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets.development.json
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets\msbuild.Lab4.Microsoft.AspNetCore.StaticWebAssets.props
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab4.props
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab4.props
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab4.props
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets.pack.json
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\scopedcss\bundle\Lab4.styles.css
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\scopedcss\projectbundle\Lab4.bundle.scp.css
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.dll
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\refint\Lab4.dll
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.pdb
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.genruntimeconfig.cache
+D:\An III Sem II\II\Lab4\Lab4\Lab4\obj\Debug\net8.0\ref\Lab4.dll
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\bin\Debug\net8.0\appsettings.Development.json
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\bin\Debug\net8.0\appsettings.json
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.staticwebassets.runtime.json
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.exe
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.deps.json
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.runtimeconfig.json
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.dll
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\bin\Debug\net8.0\Lab4.pdb
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfoInputs.cache
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfo.cs
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.csproj.CoreCompileInputs.cache
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.MvcApplicationPartsAssemblyInfo.cache
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.RazorAssemblyInfo.cache
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.RazorAssemblyInfo.cs
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.sourcelink.json
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets.build.json
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets.development.json
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets\msbuild.Lab4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab4.props
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab4.props
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab4.props
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\scopedcss\bundle\Lab4.styles.css
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\scopedcss\projectbundle\Lab4.bundle.scp.css
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.dll
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\refint\Lab4.dll
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.pdb
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\Lab4.genruntimeconfig.cache
+C:\facultate\an 3\sem 2\II\LAB\lab4\Lab4\Lab4\obj\Debug\net8.0\ref\Lab4.dll
